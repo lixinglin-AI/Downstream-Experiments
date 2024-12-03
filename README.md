@@ -1,4 +1,3 @@
-# Downstream-Experiments
 # Downstream Experiments with MixUp and JTT
 
 This repository explores advanced data augmentation techniques, such as **MixUp**, and methods like **Just Train Twice (JTT)** to improve fairness and robustness in machine learning models. The project evaluates performance on challenging datasets and investigates strategies to mitigate spurious correlations.
