@@ -18,6 +18,20 @@ This repository explores advanced data augmentation techniques, such as **MixUp*
 - Improved handling of imbalanced and biased data distributions.
 
 ## Citation
-If you use this work, please cite the MixUp and JTT papers referenced in this repository.
+@article{zhang2018mixup,
+    title={mixup: Beyond Empirical Risk Minimization},
+    author={Hongyi Zhang, Moustapha Cisse, Yann N. Dauphin, David Lopez-Paz},
+    journal={International Conference on Learning Representations},
+    year={2018},
+    url={https://openreview.net/forum?id=r1Ddp1-Rb},
+}
+@article{sagawa2020justtrain,
+    title={Just Train Twice: Improving Group Robustness without Training Group Information},
+    author={Sagawa, Shiori and Koh, Pang Wei and Hashimoto, Tatsunori B and Liang, Percy},
+    journal={International Conference on Machine Learning (ICML)},
+    year={2020},
+    url={https://github.com/anniesch/jtt},
+}
+
 
 ---
